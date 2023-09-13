@@ -1,0 +1,10 @@
+.menu-ilustrativo {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .menu-ilustrativo a {
+    color: #cc2222;
+    text-decoration: none;
+  }
+  

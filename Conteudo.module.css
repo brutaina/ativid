@@ -1,0 +1,11 @@
+.conteudo {
+    max-width: 800px; /* Define a largura máxima para o conteúdo */
+    margin: 0 auto; /* Centraliza horizontalmente o conteúdo */
+    text-align: justify; /* Justifica o texto */
+  }
+  
+  /* Estilos adicionais para parágrafos se necessário */
+  .conteudo p {
+    margin-bottom: 20px; /* Espaçamento entre parágrafos */
+  }
+  

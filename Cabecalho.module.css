@@ -1,0 +1,32 @@
+.cabecalho {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff; /* Cor de fundo branca para o cabeçalho */
+    color: black; /* Cor do texto preta */
+  }
+  
+  .logoWrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1000000px; /* Espaçamento abaixo do logotipo */
+  }
+  
+  .imgLogo {
+    margin-right: 100000px; /* Espaçamento à direita de 20px */
+    width: 100000px; /* Ajuste a largura conforme necessário */
+  }
+  
+  .titulo {
+    font-size: 3rem;
+    font-family: 'Roboto', sans-serif; /* Fonte Roboto */
+    font-weight: 900; /* Roboto Black */
+    margin: 0; /* Remova a margem para evitar espaçamento indesejado */
+  }
+  
+  .subtitulo {
+    font-size: 10px; /* Tamanho da fonte de 10px */
+    margin: 0; /* Remova a margem para evitar espaçamento indesejado */
+  }
+  
